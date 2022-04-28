@@ -1,4 +1,9 @@
-## Hi there 👋
+![linkedin-2](https://user-images.githubusercontent.com/53093292/165784466-8284ca2e-ed20-446e-9415-01a2fd04468c.jpg)
+
+Chez Orphic, nous construisons la grande majorité de nos produits avec React, Firebase et Wordpress maintenu par des communautés actives, mature et stable.
+
+Vous pourrez trouver nos projet "open source" sous ce répertoire. :v: :technologist: :woman_technologist:
+
 
 <!--
 
